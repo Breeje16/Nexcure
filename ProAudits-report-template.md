@@ -9,7 +9,7 @@ Audits are a time, resource and expertise bound effort where trained experts eva
 ## Qualitative Scores
 
 | Metric          | Rating    | Comment  |
-| ------ -----    | --------  | -------- |
+| ------------    | --------  | -------- |
 | Code complexity | Good      |          |
 | Documentation   | Excellent |          |
 | Best practices  | Moderate  |          |

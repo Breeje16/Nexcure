@@ -1,6 +1,6 @@
 # Introduction
 
-A time-boxed security audit of the **protocol name** protocol was done by **auditor**, with a focus on the security aspects of the smart contracts through ProAudits.
+A time-boxed security audit of the **protocol name** protocol was done by **auditor**, with a focus on the security aspects of the smart contracts through Nexcure.
 
 # Disclaimer
 
